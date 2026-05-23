@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="bannergit1.jpeg">
+</p>
+
+
+
 <h1 align="center">Maratona Java!!</h1>
 
 ###
@@ -27,5 +33,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 </div>
+
+###
+
+<p align="center">
+  <img src="bannergit1.jpeg">
+</p>
 
 ###
