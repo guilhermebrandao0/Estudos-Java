@@ -1,11 +1,11 @@
 package aulas.javacore.Aintroducaoclasses.test;
 
-import aulas.javacore.Aintroducaoclasses.dominio.Estudante;
+import aulas.javacore.Aintroducaoclasses.dominio.Estudante01;
 
-public class EstudanteTest {
+public class EstudanteTest01 {
     public static void main(String[] args) {
 
-        Estudante aluno = new Estudante();
+        Estudante01 aluno = new Estudante01();
 
         aluno.nome = "Guilherme";
         aluno.idade = 15;
