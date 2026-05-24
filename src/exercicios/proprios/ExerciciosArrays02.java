@@ -1,6 +1,6 @@
-package exercicios;
+package exercicios.proprios;
 
-public class ExercicioCriadoPorEuMesmo02 {
+public class ExerciciosArrays02 {
     public static void main(String[] args) {
 
         // 1. Crie um array de inteiros com 6 posições

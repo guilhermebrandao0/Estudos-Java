@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.propostos;
 
 public class Aula06ExercicioDeEstruturaDeRepeticao01 {
     public static void main(String[] args) {

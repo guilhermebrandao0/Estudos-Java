@@ -1,6 +1,6 @@
-package exercicios;
+package exercicios.propostos;
 
-public class Aula06ExercicioDeEstruturaDeRepeticao02 {
+public class Aula06ExercicioDeEstruturaDeRepeticao03 {
     public static void main(String[] args) {
 
         // Dado o valor de um carro, descubra em quantas vezes ele pode ser parcelado
@@ -9,11 +9,10 @@ public class Aula06ExercicioDeEstruturaDeRepeticao02 {
 
         double ValorTotal = 30000;
 
-        for (int Parcela = 1; Parcela <= ValorTotal; Parcela++){
+        for (int Parcela = (int) 30000; Parcela >= 1; Parcela--) {
             double ValorParcela = ValorTotal / Parcela;
-
-            if (ValorParcela < 1000) {
-                break;
+            if (ValorParcela < 1000){
+                continue;
             }
             System.out.println("Parcela " + Parcela + " R$ " + ValorParcela);
         }

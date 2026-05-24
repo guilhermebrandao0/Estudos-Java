@@ -1,6 +1,6 @@
-package exercicios;
+package exercicios.proprios;
 
-public class ExercicioCriadoPorEuMesmo01 {
+public class ExercicioArrays01 {
     public static void main(String[] args) {
 
         // Crie um array de nomes com 5 posições.
