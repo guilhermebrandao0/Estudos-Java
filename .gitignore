@@ -33,4 +33,4 @@ bin/
 .idea/
 
 ### src ###
-src/aulas/javacore/Aintroducaoclasses/test/professorTest01
+src/aulas/javacore/Aintroducaoclasses/dominio/Estudante01.java
