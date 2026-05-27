@@ -6,11 +6,12 @@ public class CalculadoraTest01 {
     public static void main(String[] args) {
 
         Calculadora calculadora = new Calculadora();
-        calculadora.somaDoisNumeros();
+
+        calculadora.somaDoisNumeros(1, 2);
 
         System.out.println( );
 
-        calculadora.subtraiDoisNumeros();
+        calculadora.subtraiDoisNumeros(3, 2);
 
         System.out.println( );
 
@@ -18,7 +19,8 @@ public class CalculadoraTest01 {
 
         System.out.println( );
 
-        System.out.println("Finalizando calculadoraTest01");
+        calculadora.dividirDoisNumeros(30, 2);
 
+        System.out.println("Finalizando calculadoraTest01");
     }
 }
