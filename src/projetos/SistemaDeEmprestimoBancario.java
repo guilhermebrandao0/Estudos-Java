@@ -12,7 +12,8 @@ public class SistemaDeEmprestimoBancario {
         //Regras
         //Se o salário for menor que R$ 2.000 → Empréstimo negado.
         //Se o salário for entre R$ 2.000 e R$ 5.000 → Empréstimo máximo de R$ 10.000.
-        //Se o salário for maior ou igual a R$ 5.000 → Empréstimo máximo de R$ 50.000.
+        //Se o salário for entre R$ 5.000 e R$ 10.000 → Empréstimo máximo de R$ 50.000.
+        //Se o salário for maior ou igual a R$ 10.000 → Empréstimo máximo de R$ 100.000.
         //Pessoas
 
         //
@@ -47,6 +48,10 @@ public class SistemaDeEmprestimoBancario {
         //Salário: R$ 7000.00
         //Status: Empréstimo aprovado
         //Valor máximo disponível: R$ 50000.00
+
+        String nome1 = "Guilherme";
+
+        double salario1 = 6737.74;
 
     }
 }
