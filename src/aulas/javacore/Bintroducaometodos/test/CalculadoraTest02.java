@@ -9,7 +9,7 @@ public class CalculadoraTest02 {
 
         Calculadora calculadora2 = new Calculadora();
 
-       double result = calculadora2.dividirDoisNumerosD(20, 2);
+       double result = calculadora2.dividirDoisNumerosD(5, 2);
         System.out.println((int)result);
     }
 }
