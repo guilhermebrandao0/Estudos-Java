@@ -10,6 +10,6 @@ public class CalculadoraTest02 {
         Calculadora calculadora2 = new Calculadora();
 
        double result = calculadora2.dividirDoisNumerosD(5, 2);
-        System.out.println((int)result);
+        System.out.println(result);
     }
 }
