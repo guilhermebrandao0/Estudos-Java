@@ -1,4 +1,4 @@
-package projetos;
+package projetos.treinamento;
 
 public class SistemaDeImpostoDeRendaComArrays {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package projetos;
+package projetos.treinamento;
 
 public class SistemaDeAprovacaoDeAlunos {
     public static void main(String[] args) {
