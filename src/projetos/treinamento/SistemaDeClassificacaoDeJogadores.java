@@ -34,7 +34,7 @@ public class SistemaDeClassificacaoDeJogadores {
         for (int i = 0; i < 5; i++){
 
             System.out.println(nome [i]);
-            System.out.println("Com: " + (int)pontos[i]);
+            System.out.println("Com: " + (int)pontos [i]+ " pontos");
 
             if (pontos [i] >= 10000){
                 System.out.println("Hank: Diamante");
