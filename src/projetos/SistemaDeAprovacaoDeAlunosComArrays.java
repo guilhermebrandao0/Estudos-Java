@@ -22,8 +22,8 @@ public class SistemaDeAprovacaoDeAlunosComArrays {
         double [][] nota = new double[4][3];
 
         nome [0] = "Guilherme";  nota [0][0] = 3; nota [0][1] = 2.5; nota [0][2] = 2;
-        nome [1] = "Beatryz";    nota [1][0] = 3; nota [1][1] = 1; nota [1][2] = 3;
-        nome [2] = "Kamilly";    nota [2][0] = 3; nota [2][1] = 0; nota [2][2] = 1.5;
+        nome [1] = "Beatryz";    nota [1][0] = 3; nota [1][1] = 1;   nota [1][2] = 3;
+        nome [2] = "Kamilly";    nota [2][0] = 3; nota [2][1] = 0;   nota [2][2] = 1.5;
         nome [3] = "Karol";      nota [3][0] = 1; nota [3][1] = 0.5; nota [3][2] = 1.5;
 
         for (int i = 0; i < 4; i++) {
