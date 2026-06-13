@@ -1,6 +1,6 @@
 package projetos.treinamento;
 
-public class SistemaDeClassificacaoDeJogadores {
+public class ClassificacaoDeJogadores {
     public static void main(String[] args) {
         System.out.println( );
 

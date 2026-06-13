@@ -1,6 +1,6 @@
 package projetos.treinamento;
 
-public class SistemaDeAprovacaoDeAlunosComArrays {
+public class AprovacaoDeAlunos {
     public static void main(String[] args) {
         System.out.println( );
 

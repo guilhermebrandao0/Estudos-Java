@@ -1,6 +1,6 @@
 package projetos.treinamento;
 
-public class SistemaDeImpostoDeRendaComArrays {
+public class ImpostoDeRenda {
     public static void main(String[] args) {
         System.out.println( );
 
