@@ -1,6 +1,6 @@
 package projetos;
 
-public class SistemaDeAprovaçãoDeAlunos {
+public class SistemaDeAprovacaoDeAlunos {
     public static void main(String[] args) {
 
     // Você deve criar uma classe responsável por:
