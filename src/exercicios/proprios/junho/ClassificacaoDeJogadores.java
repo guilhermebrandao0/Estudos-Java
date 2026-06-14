@@ -1,4 +1,4 @@
-package projetos.treinamento;
+package exercicios.proprios.junho;
 
 public class ClassificacaoDeJogadores {
     public static void main(String[] args) {

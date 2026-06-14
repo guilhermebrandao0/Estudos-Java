@@ -1,4 +1,4 @@
-package exercicios.proprios;
+package exercicios.proprios.maio;
 
 public class ExerciciosTudoOqueSeiAteAgora {
     public static void main(String[] args) {
