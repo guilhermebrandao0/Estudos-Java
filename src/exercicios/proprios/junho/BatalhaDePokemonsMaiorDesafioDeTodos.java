@@ -270,7 +270,7 @@ public class BatalhaDePokemonsMaiorDesafioDeTodos {
         // Continuação dos detalhes do pokemon acima
 
         nivel[3] = 6767;
-        hp[3] = 10;
+        hp[3] = 11;
         ataque[3] = 10;
         defesa[3] = 10;
         velocidade[3] = 111111111;
