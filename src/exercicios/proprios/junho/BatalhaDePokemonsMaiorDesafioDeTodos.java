@@ -2,6 +2,7 @@ package exercicios.proprios.junho;
 
 public class BatalhaDePokemonsMaiorDesafioDeTodos {
     public static void main(String[] args) {
+        System.out.println( );
 
         //# Projeto: Sistema de Batalha Pokémon
         //
@@ -243,7 +244,7 @@ public class BatalhaDePokemonsMaiorDesafioDeTodos {
         hp[0] = 10;
         ataque[0] = 10;
         defesa[0] = 10;
-        velocidade[0] = 111111111;
+        velocidade[0] = 1111111111;
         experiencia[0] = 99999;
 
         pokemons[1] = "Charmander";  tipo[1] = "Fogo";
@@ -253,7 +254,7 @@ public class BatalhaDePokemonsMaiorDesafioDeTodos {
         hp[1] = 10;
         ataque[1] = 10;
         defesa[1] = 10;
-        velocidade[1] = 111111111;
+        velocidade[1] = 11111111;
         experiencia[1] = 99999;
 
         pokemons[2] = "Bulbasauro";  tipo[2] = "Planta";
@@ -263,8 +264,8 @@ public class BatalhaDePokemonsMaiorDesafioDeTodos {
         hp[2] = 10;
         ataque[2] = 10;
         defesa[2] = 10;
-        velocidade[2] = 111111111;
-        experiencia[2] = 99999;
+        velocidade[2] = 111;
+        experiencia[2] = 99;
 
         pokemons[3] = "Squirtle";    tipo[3] = "Água";
         // Continuação dos detalhes do pokemon acima
@@ -273,8 +274,8 @@ public class BatalhaDePokemonsMaiorDesafioDeTodos {
         hp[3] = 12;
         ataque[3] = 10;
         defesa[3] = 10;
-        velocidade[3] = 111111111;
-        experiencia[3] = 99999;
+        velocidade[3] = 1111;
+        experiencia[3] = 999;
 
     }
 }
