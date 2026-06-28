@@ -53,5 +53,8 @@ public class BatalhaDePokemonsMaiorDesafioDeTodos {
         velocidade[3] = 1111;
         experiencia[3] = 999;
 
+        ///////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        
     }
 }
